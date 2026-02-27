@@ -1,0 +1,13 @@
+{
+  "name": "gps-relay-server",
+  "version": "1.0.0",
+  "description": "WebSocket relay server for GPS streaming",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.16.0"
+  }
+}
